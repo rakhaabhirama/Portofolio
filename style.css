@@ -654,6 +654,13 @@ nav .bx{
         font-size: 30px;
     }
 
+    .tab-contents {
+        min-height: 290px; 
+    }
+    #services .sub-title {
+        margin-bottom: -25px; 
+    }
+
 
 
 }
